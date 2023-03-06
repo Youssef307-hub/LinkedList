@@ -167,7 +167,7 @@ public class LinkedList<T> {
     }
 
     /**
-     * Method to remove an item from the list from a certain position
+     * Method removes an item from the list from a certain position
      * @param position Integer value of the position where to remove item from the list
      */
     public void removeAtIndex(int position){
